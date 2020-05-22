@@ -1,5 +1,14 @@
 # Project exclude paths
 /.gradle/
+/.idea/
+build
+gradle*
+*.yaml
+*.gradle
+/Phone Book/A needle in the hay
+/Phone Book/Instant Search
+/Phone Book/Jumping bubbles
+/Phone Book/Need for speed
 /Phone Book/task/build/
 /Phone Book/task/out/
 /Phone Book/task/out/production/classes/
